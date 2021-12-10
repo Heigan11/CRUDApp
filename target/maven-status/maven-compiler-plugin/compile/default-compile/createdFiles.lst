@@ -1,0 +1,5 @@
+org/example/config/SpringConfig.class
+org/example/models/Person.class
+org/example/config/MySpringMvcDispatcherServletInitializer.class
+org/example/controllers/PeopleController.class
+org/example/dao/PersonDAO.class

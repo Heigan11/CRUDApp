@@ -1,0 +1,5 @@
+/home/heigan/Рабочий стол/CRUDApp/src/main/java/org/example/models/Person.java
+/home/heigan/Рабочий стол/CRUDApp/src/main/java/org/example/dao/PersonDAO.java
+/home/heigan/Рабочий стол/CRUDApp/src/main/java/org/example/config/MySpringMvcDispatcherServletInitializer.java
+/home/heigan/Рабочий стол/CRUDApp/src/main/java/org/example/config/SpringConfig.java
+/home/heigan/Рабочий стол/CRUDApp/src/main/java/org/example/controllers/PeopleController.java
